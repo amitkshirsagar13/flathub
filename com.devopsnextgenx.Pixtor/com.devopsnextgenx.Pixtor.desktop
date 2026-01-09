@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Pixtor
+Comment=AI-powered image vector search
+Exec=pixtor-wrapper.sh
+Icon=com.devopsnextgenx.Pixtor
+Categories=Utility;Development;
+Terminal=false
